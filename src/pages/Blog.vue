@@ -8,7 +8,7 @@
                         <nav class="blog__info__heading_breadcrumb">
                             <ul class="blog__info__heading_breadcrumb_ul">
                                 <li class="blog__info__heading_breadcrumb_li">
-                                    <router-link to="/" class="blog__info__heading_breadcrumb_link">Home</router-link>
+                                    <router-link to="/k" class="blog__info__heading_breadcrumb_link">Home</router-link>
                                 </li>
                                 <li class="blog__info__heading_breadcrumb_li">
                                     <router-link to="/BlogDetails" class="blog__info__heading_breadcrumb_link">Blog</router-link>
