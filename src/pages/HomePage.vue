@@ -4,21 +4,24 @@
             <section class="top__content center">
                 <div class="top__content_img">
                     <img class="top__content_image" src="@/assets/img/top__content_img.svg" alt="top__content_img">
+                    <div class="top__content_info">
+                        <h1 class="top__content_info_title">Let Your Home Be Unique</h1>
+                        <h2 class="top__content_info_subtitle">There are many variations of the passages of lorem Ipsum
+                            fromavailable, majority.</h2>
+                        <router-link to="/NotFound">
+                            <div class="top__content_info_button">
+                                <button class="top__content_info_btn">Get Started&nbsp;<svg
+                                        xmlns="http://www.w3.org/2000/svg" width="19" height="17" viewBox="0 0 19 17"
+                                        fill="none">
+                                        <path d="M2 8.43542L15.7232 8.29857M10.6182 1.91138L17.1412 8.43436L10.4868 15.0887"
+                                            stroke="#CDA274" stroke-width="2" stroke-linecap="square"
+                                            stroke-linejoin="round" />
+                                    </svg></button>
+                            </div>
+                        </router-link>
+                    </div>
                 </div>
-                <div class="top__content_info">
-                    <h1 class="top__content_info_title">Let Your Home Be Unique</h1>
-                    <h2 class="top__content_info_subtitle">There are many variations of the passages of lorem Ipsum
-                        fromavailable, majority.</h2>
-                    <router-link to="/NotFound">
-                        <div class="top__content_info_button">
-                            <button class="top__content_info_btn">Get Started&nbsp;<svg xmlns="http://www.w3.org/2000/svg"
-                                    width="19" height="17" viewBox="0 0 19 17" fill="none">
-                                    <path d="M2 8.43542L15.7232 8.29857M10.6182 1.91138L17.1412 8.43436L10.4868 15.0887"
-                                        stroke="#CDA274" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" />
-                                </svg></button>
-                        </div>
-                    </router-link>
-                </div>
+
             </section>
             <section class="projects center">
                 <div class="projects__info">
